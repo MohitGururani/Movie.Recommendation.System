@@ -2,8 +2,6 @@ import pickle
 import streamlit as st
 import pandas as pd
 import requests
-from streamlit_lottie import st_lottie
-import json
 
 # Add a favicon to the app
 st.set_page_config(page_title='Movie Recommender System', page_icon=':guardsman:', layout='wide')
