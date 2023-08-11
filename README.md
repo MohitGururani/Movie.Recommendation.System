@@ -2,8 +2,6 @@
 - Develop a movie recommendation website using Python and the Streamlit library, which provided personalized movie recommendations based on user preferences.
 - Designed and implemented the user interface using HTML, CSS, and jQuery, resulting in a clean and modern look that enhances user experience.
 
-# Link to the App
-https://mohitgururani-movie-recommendation-system.streamlit.app/
 
 # Screenshots
 ![Screenshot (30)](https://user-images.githubusercontent.com/88389599/233720666-593e0e12-7fa5-4673-b983-e5dac34b4c5b.png)
